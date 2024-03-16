@@ -2,13 +2,17 @@
 🔴🟡🟢
 <img src="assets/banner.png" alt="Daniel Guaycha | Software Developer, Software Enginer"/>
 
+<br>
+
 <p>
-Welcome my home! I am a full stack developer 🚀, I currently work creating web applications for the financial sector. I am a problem-solving enthusiast, very creative. I have a great love for technology, programming languages ​​and I really enjoy creating software.
+
+**Welcome my home!** I am a full stack developer 🚀, I currently work creating web applications for the financial sector. I am a problem-solving enthusiast, very creative. I have a great love for technology, programming languages ​​and I really enjoy creating software.
+
 </p>
 
+<br>
 
-
-## About me
+## About Me
 
 - 💻 Am I a fullStack developer? Yes, I can move between front-end and back-end without problem. I really enjoy contributing on both sides.
 - 💪 I am specialized in javascript for my current job, but I am not afraid to write java. php, python or C++.
@@ -47,7 +51,7 @@ Welcome my home! I am a full stack developer 🚀, I currently work creating web
 [![mongodb](https://img.shields.io/badge/-mongodb-47A248?style=flat&logo=mongodb&logoColor=white)](https://github.com/danielguaycha)
 
 
-### Sofware & Tools
+#### Sofware & Tools
 
 <img src="https://skillicons.dev/icons?i=git,aws,docker,express,figma,firebase,github,bitbucket,jenkins,gulp,webpack,idea,phpstorm,webstorm,java,linux,md,materialui,postman,vscode,kali,notion,npm,yarn&perline=20" />
 
@@ -80,12 +84,12 @@ Welcome my home! I am a full stack developer 🚀, I currently work creating web
   </strong>
   <br>
   <br>
-  <a href="mailto://danielguaycha@gmail.com" style="color:#FAAF3B; font-weight: 500">danielguaycha@gmail.com</a>
+  <a href="mailto://danielguaycha@gmail.com" target="_blank" style="color:#FAAF3B; font-weight: 500">danielguaycha@gmail.com</a>
   <br><br>
-  <a href="https://www.linkedin.com/in/danielguaycha">
+  <a href="https://www.linkedin.com/in/danielguaycha" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="35" style="margin-right: 10px" />
   </a>
-  <a href="https://twitter.com/danielguaycha">
-    <img src="https://skillicons.dev/icons?i=twitter" height="35" style="margin-right: 10px" />
+  <a href="https://twitter.com/danielguaycha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="35" style="margin-right: 10px"  />
     </a>
 </p>
