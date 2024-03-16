@@ -6,7 +6,7 @@
 Welcome my home! I am a full stack developer 🚀, I currently work creating web applications for the financial sector. I am a problem-solving enthusiast, very creative. I have a great love for technology, programming languages ​​and I really enjoy creating software.
 </p>
 
----
+
 
 ## About me
 
@@ -16,7 +16,7 @@ Welcome my home! I am a full stack developer 🚀, I currently work creating web
 - 🔎 I am looking for the opportunity to collaborate in other sectors as a fullStack developer.
 - 🏃‍♂️ While I'm not working I love playing video games, driving, playing sports or watching movies or series.
 
----
+<br>
 
 ## My Skills
 
@@ -47,15 +47,15 @@ Welcome my home! I am a full stack developer 🚀, I currently work creating web
 [![mongodb](https://img.shields.io/badge/-mongodb-47A248?style=flat&logo=mongodb&logoColor=white)](https://github.com/danielguaycha)
 
 
-
 ### Sofware & Tools
 
 <img src="https://skillicons.dev/icons?i=git,aws,docker,express,figma,firebase,github,bitbucket,jenkins,gulp,webpack,idea,phpstorm,webstorm,java,linux,md,materialui,postman,vscode,kali,notion,npm,yarn&perline=20" />
 
 
-----
 
-## Stats
+<br>
+
+## Github Stats
 
 <p align="center" style="text-align: center">
 <table align="center">
@@ -74,29 +74,18 @@ Welcome my home! I am a full stack developer 🚀, I currently work creating web
 
 ---
 
-<div style="text-align: center; margin-top: 30px; font-weight: bold">
-Make with <span style="color: red">♥️</span> for me!
-</div>
-
-<div style="margin-bottom: 16px; text-align: center">
-    <a href="mailto://danielguaycha@gmail.com" style="color:#FAAF3B; font-weight: 500">
-      danielguaycha@gmail.com
+<p align="center">
+  <strong align="center">
+    Make with <span>♥️</span> for me!
+  </strong>
+  <br>
+  <br>
+  <a href="mailto://danielguaycha@gmail.com" style="color:#FAAF3B; font-weight: 500">danielguaycha@gmail.com</a>
+  <br><br>
+  <a href="https://www.linkedin.com/in/danielguaycha">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="35" style="margin-right: 10px" />
+  </a>
+  <a href="https://twitter.com/danielguaycha">
+    <img src="https://skillicons.dev/icons?i=twitter" height="35" style="margin-right: 10px" />
     </a>
-</div>
-
-<span style="display: flex; flex-direction: row; justify-content: center;">
-
-
-  <div style="display: flex; margin-bottom: 16px">
-    <a href="https://www.linkedin.com/in/danielguaycha" style="color:#0A66C2; font-weight: 500">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35" style="margin-right: 10px" />
-    </a>
-  </div>
-
-  <div style="display: flex">
-    <a href="https://twitter.com/danielguaycha" style="color:#1D9BF0; font-weight: 500">
-     <img src="https://skillicons.dev/icons?i=twitter" height="35" style="margin-right: 10px" />
-     </a>
-  </div>
-
-</span>
+</p>
